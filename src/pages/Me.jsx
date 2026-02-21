@@ -6,7 +6,7 @@ export default function Me() {
   const [error, setError] = useState(false);
 
   useEffect(() => {
-    fetch('/content/me.json')
+    fetch(`${import.meta.env.BASE_URL}content/me.json`)
       .then((r) => r.json())
       .then(setData)
       .catch(() => setError(true))

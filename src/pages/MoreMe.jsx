@@ -34,7 +34,7 @@ export default function MoreMe() {
   const [error, setError] = useState(false);
 
   useEffect(() => {
-    fetch('/content/more-me.json')
+    fetch(`${import.meta.env.BASE_URL}content/more-me.json`)
       .then((r) => r.json())
       .then(setData)
       .catch(() => setError(true))

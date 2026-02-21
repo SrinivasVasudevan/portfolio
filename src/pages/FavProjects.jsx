@@ -43,7 +43,7 @@ export default function FavProjects() {
   const [error, setError] = useState(false);
 
   useEffect(() => {
-    fetch('/content/fav-projects.json')
+    fetch(`${import.meta.env.BASE_URL}content/fav-projects.json`)
       .then((r) => r.json())
       .then(setData)
       .catch(() => setError(true))

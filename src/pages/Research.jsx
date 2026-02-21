@@ -6,7 +6,7 @@ export default function Research() {
   const [error, setError] = useState(false);
 
   useEffect(() => {
-    fetch('/content/research.json')
+    fetch(`${import.meta.env.BASE_URL}content/research.json`)
       .then((r) => r.json())
       .then(setData)
       .catch(() => setError(true))

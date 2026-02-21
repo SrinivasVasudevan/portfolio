@@ -6,7 +6,7 @@ export default function Workexp() {
   const [error, setError] = useState(false);
 
   useEffect(() => {
-    fetch('/content/workexp.json')
+    fetch(`${import.meta.env.BASE_URL}content/workexp.json`)
       .then((r) => r.json())
       .then(setData)
       .catch(() => setError(true))
