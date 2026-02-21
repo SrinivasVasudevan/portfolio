@@ -14,9 +14,3 @@
 - `workexp.json`: `title`, `tagline`, `entries` (each: `role`, `company`, `logo` (optional URL), `date`, `summary`)
 - `fav-projects.json`: `title`, `tagline`, `entries` (each: `name`, `date`, `description`, `github`, `demo` (optional))
 - `research.json`: `title`, `tagline`, `entries` (each: `title`, `date`, `summary`, `url` (optional link to paper))
-
-
-## Deploy to GitHub Pages
-
-1. In `vite.config.js` set `base: '/<repo>/'` (e.g. `base: '/portfolio/'`) so assets load correctly.
-2. Run `npm run build`. Deploy the `dist` folder (e.g. push to a `gh-pages` branch and set Pages to that branch, or use a GitHub Actions workflow that builds and deploys `dist`).
