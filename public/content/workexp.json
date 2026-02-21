@@ -1,0 +1,34 @@
+{
+  "title": "work experience",
+  "tagline": "2+ years of SDE experience",
+  "entries": [
+    {
+      "role": "Software Engineer Intern",
+      "company": "Troxler Electronic Laboratories",
+      "logo": null,
+      "date": "Jun, 2025 – Aug, 2025",
+      "summary": "Helped build a Computer Vision OCR app to streamline manufacturing pipeline"
+    },
+    {
+      "role": "Graduate Student Grader",
+      "company": "North Carolina State University",
+      "logo": null,
+      "date": "Jan, 2025 – May, 2025",
+      "summary": "Helped build custom Triton robots powered by NVIDIA Jetson"
+    },
+    {
+      "role": "Dev, Associate Tech Consultant",
+      "company": "Salesforce",
+      "logo": null,
+      "date": "Aug, 2022 – Jul, 2024",
+      "summary": "Designed scalable backend infra. Built cloud solutions and internal tooling."
+    },
+    {
+      "role": "Dev, Associate Tech Consultant Intern",
+      "company": "Salesforce",
+      "logo": null,
+      "date": "Feb, 2022 – Aug, 2022",
+      "summary": "Built onboarding websites for a fintech customer"
+    }
+  ]
+}

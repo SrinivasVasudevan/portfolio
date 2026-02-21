@@ -1,0 +1,59 @@
+{
+  "name": "srinivas vasudevan",
+  "tagline": "<3 c++",
+  "socials": {
+    "x": "https://x.com/SrinivasVasude3",
+    "linkedin": "https://linkedin.com/in/srinivas-vasudevan/",
+    "gh": "https://github.com/SrinivasVasudevan"
+  },
+  "centerLinks": [
+    {
+      "label": "me",
+      "url": "/me",
+      "disabled": false
+    },
+    {
+      "label": "more me",
+      "url": "/more-me",
+      "disabled": false
+    },
+    {
+      "label": "workexp",
+      "url": "/workexp",
+      "disabled": false
+    },
+    {
+      "label": "fav projects",
+      "url": "/fav-projects",
+      "disabled": false
+    },
+    {
+      "label": "research",
+      "url": "/research",
+      "disabled": false
+    },
+    {
+      "label": "resume",
+      "url": "",
+      "disabled": false,
+      "isResume": true
+    },
+    {
+      "label": "blog",
+      "url": "/blog",
+      "disabled": true
+    }
+  ],
+  "resumeUrl": "https://drive.google.com/file/d/15WY-RSFybbqlKU36lON_B8gWXPDBOMKx/view?usp=sharing",
+  "footer": {
+    "showTime": true,
+    "showWeather": true,
+    "location": {
+      "city": "Raleigh",
+      "region": "NC",
+      "country": "USA",
+      "lat": 35.7796,
+      "lon": -78.6382
+    }
+  }
+}

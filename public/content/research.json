@@ -1,0 +1,18 @@
+{
+  "title": "research",
+  "tagline": "all my publications in one place",
+  "entries": [
+    {
+      "title": "Object-centric and memory-guided network-based normality modeling for video anomaly detection",
+      "date": "Feb, 2022",
+      "summary": "Early stage object detection for faster inferences. Memory guided network for better generalization.",
+      "url": "https://link.springer.com/article/10.1007/s11760-022-02161-y"
+    },
+    {
+      "title": "Residual Spatiotemporal Autoencoder with Skip Connected and Memory Guided Network for Detecting Video Anomalies",
+      "date": "Aug, 2021",
+      "summary": "Real time video anomaly detection using a novel spatiotemporal autoencoder architecture",
+      "url": "https://link.springer.com/article/10.1007/s11063-021-10618-3"
+    }
+  ]
+}

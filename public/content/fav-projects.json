@@ -1,0 +1,27 @@
+{
+  "title": "fav projects",
+  "tagline": "My current favorites. Check out my Github for more.",
+  "entries": [
+    {
+      "name": "Weather balloon trajectory prediction",
+      "date": "Feb, 2025",
+      "description": "Predicts weather balloon trajectory using hourly telemetry data with Kalman filter",
+      "github": "https://github.com/SrinivasVasudevan/WindBorneChallenge",
+      "demo": "http://svasude7.ddns.net/"
+    },
+    {
+      "name": "Quantum Computer Refrigerator dashboard",
+      "date": "Mar, 2025",
+      "description": "Dashboard serving live data from a quantum computer refrigerator using websockets",
+      "github": "https://github.com/SrinivasVasudevan/ISW",
+      "demo": null
+    },
+    {
+      "name": "MyCookbook",
+      "date": "Apr, 2025",
+      "description": "Cook book with an AI chatbot",
+      "github": "https://github.com/Software-Engineering-Spring-2025/my-cookbook",
+      "demo": null
+    }
+  ]
+}
