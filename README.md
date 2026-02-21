@@ -1,9 +1,3 @@
-# Portfolio
-
-React (Vite) portfolio. Layout: name (top left, links home), socials (top right), center links, footer with time and weather. Content from `public/config.json`.
-
-## Edit content
-
 **Site config** – `public/config.json`:
 
 - `name`, `tagline`: header
@@ -21,24 +15,6 @@ React (Vite) portfolio. Layout: name (top left, links home), socials (top right)
 - `fav-projects.json`: `title`, `tagline`, `entries` (each: `name`, `date`, `description`, `github`, `demo` (optional))
 - `research.json`: `title`, `tagline`, `entries` (each: `title`, `date`, `summary`, `url` (optional link to paper))
 
-## Run locally
-
-Requires Node 18+. Then:
-
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:5173
-
-## Build
-
-```bash
-npm run build
-```
-
-Output in `dist/`. Preview with `npm run preview`.
 
 ## Deploy to GitHub Pages
 
