@@ -3,6 +3,13 @@
   "tagline": "My current favorites. Check out my Github for more.",
   "entries": [
     {
+      "name": "Custom reverse camera",
+      "date": "Feb, 2026",
+      "description": "Reverse camera and blind spot detection system for Toyota Camry 2010",
+      "github": "https://github.com/SrinivasVasudevan/esp32_rev_cam",
+      "demo": null
+    },
+    {
       "name": "Weather balloon trajectory prediction",
       "date": "Feb, 2025",
       "description": "Predicts weather balloon trajectory using hourly telemetry data with Kalman filter",
