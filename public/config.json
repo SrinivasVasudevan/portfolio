@@ -49,11 +49,11 @@
     "showTime": true,
     "showWeather": true,
     "location": {
-      "city": "Raleigh",
-      "region": "NC",
+      "city": "Sunnyvale",
+      "region": "CA",
       "country": "USA",
-      "lat": 35.7796,
-      "lon": -78.6382
+      "lat": 37.3688,
+      "lon": -122.0363
     }
   }
 }
